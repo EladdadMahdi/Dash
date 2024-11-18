@@ -16,6 +16,4 @@ This project is a data visualization dashboard built using Python, Pandas, and D
 Install the required dependencies:
 ```bash
 pip install pandas dash plotly
-```bash
-### Clone the Repository
-Clone this repository to your local machine:
+
