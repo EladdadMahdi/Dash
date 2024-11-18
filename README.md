@@ -48,8 +48,9 @@ python app.py
 ```
 project/
 │
-├── app.py             # Main dashboard application
-├── airline_data.csv   # Dataset
-└── README.md          # Documentation
+├── dash/
+│   ├── app.py             # Main dashboard application
+│   └── airline_data.csv   # Dataset
+│
+└── README.md              # Documentation
 ```
-
