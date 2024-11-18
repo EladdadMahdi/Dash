@@ -33,10 +33,8 @@ cd
 
 1. Add your dataset:
    - Place `airline_data.csv` in the root directory
-   - For online datasets, update the URL in the script:
    ```python
-   url = "https://raw.githubusercontent.com/<your-username>/<your-repo>/<branch>/airline_data.csv"
-   airline_data = pd.read_csv(url)
+   airline_data = pd.read_csv(airline_data.csv)
    ```
 
 2. Run the application:
@@ -55,19 +53,3 @@ project/
 └── README.md          # Documentation
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-branch`
-3. Commit your changes: `git commit -m 'Add feature'`
-4. Push to the branch: `git push origin feature-branch`
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-- Name: Your Name
-- Email: your.email@exampl
