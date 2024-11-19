@@ -43,14 +43,3 @@ python app.py
 ```
 
 3. Access the dashboard at `http://127.0.0.1:8050` in your browser
-
-## Project Structure
-```
-project/
-│
-├── dash/
-│   ├── app.py             # Main dashboard application
-│   └── airline_data.csv   # Dataset
-│
-└── README.md              # Documentation
-```
