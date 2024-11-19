@@ -36,3 +36,8 @@ python airline_dashborad.py
 ```
 
 3. Access the dashboard at `http://127.0.0.1:8050` in your browser
+
+4. Example
+![US-Domestic-Airline-Flights-Performance-11-18-2024_10_51_PM](https://github.com/user-attachments/assets/62073473-5681-49e1-893f-06482a651f1c)
+
+  
