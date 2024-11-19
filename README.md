@@ -20,26 +20,19 @@ This project is a data visualization dashboard built using Python, Pandas, and D
 
 1. Install the required dependencies:
 ```bash
-pip install pandas dash plotly
+pip install -r requirements.txt
 ```
-
-2. Clone the repository:
-```bash
-git clone https://github.com//.git
-cd 
-```
-
-## Usage
+## Usaage
 
 1. Add your dataset:
    - Place `airline_data.csv` in the root directory
    ```python
    airline_data = pd.read_csv(airline_data.csv)
    ```
-
+   
 2. Run the application:
 ```bash
-python app.py
+python airline_dashborad.py
 ```
 
 3. Access the dashboard at `http://127.0.0.1:8050` in your browser
