@@ -6,8 +6,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-v2.2.2-150458)
 ![Dash](https://img.shields.io/badge/Dash-v2.0.0-blue)
 
-# Airline Data Analysis Dashboard
-
 This project is a data visualization dashboard built using Python, Pandas, and Dash. It analyzes airline data from a CSV file and provides interactive insights into various metrics.
 
 ## Features
