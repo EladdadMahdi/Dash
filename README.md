@@ -2,9 +2,9 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Pandas](https://img.shields.io/badge/Pandas-v1.5.0-150458)
-![Dash](https://img.shields.io/badge/Dash-v2.7.0-blue)
+![Python](https://img.shields.io/badge/Python-3.9.8-blue)
+![Pandas](https://img.shields.io/badge/Pandas-v2.2.2-150458)
+![Dash](https://img.shields.io/badge/Dash-v2.0.0-blue)
 
 # Airline Data Analysis Dashboard
 
