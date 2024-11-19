@@ -22,7 +22,7 @@ This project is a data visualization dashboard built using Python, Pandas, and D
 ```bash
 pip install -r requirements.txt
 ```
-## Usaage
+## Usage
 
 1. Add your dataset:
    - Place `airline_data.csv` in the root directory
